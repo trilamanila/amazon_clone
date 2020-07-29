@@ -1,0 +1,3 @@
+[submodule "frontends"]
+	path = frontends
+	url = https://github.com/trilamanila/amazon_clone.git
